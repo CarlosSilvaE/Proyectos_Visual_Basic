@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\bin\Debug\Proyecto_Quiz.exe.config
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\bin\Debug\Proyecto_Quiz.exe
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\bin\Debug\Proyecto_Quiz.pdb
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\bin\Debug\Proyecto_Quiz.xml
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.vbproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.Bienvenida.resources
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.Geografia.resources
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.Historia.resources
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.Resources.resources
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.Resultados.resources
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.vbproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.exe
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.xml
+C:\Users\carlo\source\repos\Proyecto_Quiz\Proyecto_Quiz\obj\Debug\Proyecto_Quiz.pdb
