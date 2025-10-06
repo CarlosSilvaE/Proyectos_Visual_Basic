@@ -1,0 +1,12 @@
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\bin\Debug\Metodo1_Hotel.exe.config
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\bin\Debug\Metodo1_Hotel.exe
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\bin\Debug\Metodo1_Hotel.pdb
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\bin\Debug\Metodo1_Hotel.xml
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.vbproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.Form1.resources
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.Resources.resources
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.vbproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.exe
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.xml
+C:\Users\carlo\source\repos\Metodo1_Hotel\Metodo1_Hotel\obj\Debug\Metodo1_Hotel.pdb
