@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\bin\Debug\ClassLibraryVideogames.dll
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\bin\Debug\ClassLibraryVideogames.pdb
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\bin\Debug\ClassLibraryVideogames.xml
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.vbproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.Resources.resources
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.vbproj.GenerateResource.cache
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.dll
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.xml
+C:\Users\carlo\source\repos\ClassLibraryVideogames\ClassLibraryVideogames\obj\Debug\ClassLibraryVideogames.pdb
